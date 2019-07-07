@@ -1,4 +1,4 @@
-# this Code is done by Codera Embedded Systems and Softwares Pvt.Ltd.
+//this Code is done by Codera Embedded Systems and Softwares Pvt.Ltd.
 
 
 void setup()
@@ -13,4 +13,4 @@ DigitalWrite(13,LOW);
 delay(1000);
 }
 
-# Dont Copy my Fucking Codes. I am not sure this code will work in Your Machine ☺ 
+// Dont Copy my Fucking Codes. I am not sure this code will work in Your Machine ☺ 
